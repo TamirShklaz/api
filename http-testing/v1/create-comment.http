@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/v1/posts/1b247c76-22c3-44a6-ba07-804721a0e648/comments
+Content-Type: application/json
+
+{
+  "content": "This is a sub-comment",
+  "parentId": "0f214091-0165-4c99-8edd-dd5402179260"
+}

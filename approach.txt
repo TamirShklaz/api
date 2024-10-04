@@ -1,0 +1,27 @@
+// A user post and comment
+
+// No auth no error handiling
+
+// PSQL
+// NODEJS API
+// Drizzle
+
+
+// Schema - DONE yay
+
+// API
+
+/api/v1/
+
+posts/
+GET /
+POST /
+GET /:id
+
+comments/
+/POST
+
+users/
+
+
+
