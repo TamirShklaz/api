@@ -1,4 +1,4 @@
-# Node.js API
+# Node.js API mocking a posts and comments API
 
 ## Getting Started
 
@@ -42,6 +42,8 @@
    ```
 
 # API Endpoints
+
+Basic email, password authentication is used for the API. The password is hashed using bcrypt.
 
 ## Auth
 
