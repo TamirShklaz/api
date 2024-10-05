@@ -1,5 +1,6 @@
 POST http://localhost:3000/api/v1/posts/1b247c76-22c3-44a6-ba07-804721a0e648/comments
 Content-Type: application/json
+Authorization: Bearer
 
 {
   "content": "This is a sub-comment",
